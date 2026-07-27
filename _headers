@@ -1,0 +1,7 @@
+/*
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Permissions-Policy: interest-cohort=()
+Content-Security-Policy: default-src 'self';
+Cache-Control: public,max-age=3600
